@@ -2,7 +2,7 @@
 
 ![site](https://github.com/Cody-Lange/CustomizableTradingFramework/assets/50972659/756bdce7-fcf3-4b7d-a876-ee2c02004c7c)
 
-Website: https://tradingapp-418605.ue.r.appspot.com/ (backend changes in progress) 
+Website: [https://tradingapp-418605.ue.r.appspot.com/](https://QuantCraft.io) (backend changes in progress) 
 - Setup & Configuration
 - Watchlist 
 - Data Extraction via Polygon API
